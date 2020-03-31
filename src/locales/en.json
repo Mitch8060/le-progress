@@ -112,6 +112,7 @@
   },
   "sidebar": {
     "title": "Creative Tim",
+    "raidProgress": "Raid Progress",
     "shortTitle": "CT",
     "dashboard": "dashboard",
     "icons": "Icons",
